@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+  margin: auto;
+}
+
+h1 {
+  color: #e74c3c;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  font-size: 60px;
+  width: 100%;
+  text-align: center;
+}
+
