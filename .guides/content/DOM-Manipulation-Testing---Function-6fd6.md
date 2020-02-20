@@ -12,4 +12,4 @@ In jQuery, the `$` sign is shorthand for the function `jQuery()`. `jQuery()` ret
 `str` is the data we want our stringAdder function to add to the DOM. 
 
 - `.append()`
-The `.append()` method is a jQuery method inserts data into the selected div.
+The `.append()` method is a jQuery method that inserts data into the selected div.
